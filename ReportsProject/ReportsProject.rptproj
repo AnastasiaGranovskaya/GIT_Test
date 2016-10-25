@@ -13,7 +13,12 @@
       <FullPath>DStNumberOfUsers.rsd</FullPath>
     </ProjectItem>
   </DataSets>
-  <Reports />
+  <Reports>
+    <ProjectItem>
+      <Name>Number of Users.rdl</Name>
+      <FullPath>Number of Users.rdl</FullPath>
+    </ProjectItem>
+  </Reports>
   <Configurations>
     <Configuration>
       <Name>Debug</Name>
