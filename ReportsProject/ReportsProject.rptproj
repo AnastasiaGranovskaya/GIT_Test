@@ -7,7 +7,12 @@
       <FullPath>DSrcReporting.rds</FullPath>
     </ProjectItem>
   </DataSources>
-  <DataSets />
+  <DataSets>
+    <ProjectItem>
+      <Name>DStNumberOfUsers.rsd</Name>
+      <FullPath>DStNumberOfUsers.rsd</FullPath>
+    </ProjectItem>
+  </DataSets>
   <Reports />
   <Configurations>
     <Configuration>
